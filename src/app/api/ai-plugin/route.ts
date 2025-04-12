@@ -18,6 +18,8 @@ export async function GET() {
       'account-id': ACCOUNT_ID,
       assistant: {
         name: 'Sui Assistant',
+        image:
+        "https://sui-assistant-agent.vercel.app/logo.png",
         description:
           "An assistant that provides detailed information about the Sui blockchain, including address analysis, transaction history, portfolio tracking, and blockchain statistics.",
         instructions:
