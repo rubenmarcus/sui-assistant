@@ -2,6 +2,8 @@
 
 A powerful AI assistant specialized in providing detailed information and analysis about the Sui blockchain. This assistant can help users understand and interact with the Sui ecosystem through various tools and endpoints.
 
+[Test it live](https://bitte.ai/agents/sui-assistant-agent.vercel.app?prompt=Hey%2C%20what%20can%20you%20do%20for%20me%3F)
+
 ## Features
 
 - 🔍 Address Information: Get detailed information about any Sui address
