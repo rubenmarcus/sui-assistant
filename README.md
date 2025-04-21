@@ -1,6 +1,6 @@
-# Sui Assistant
+# Sui Explorer
 
-A powerful AI assistant specialized in providing detailed information and analysis about the Sui blockchain. This assistant can help users understand and interact with the Sui ecosystem through various tools and endpoints.
+A comprehensive blockchain explorer and analysis tool for the Sui blockchain. Sui Explorer provides detailed insights, analytics, and tools to help users navigate and understand the Sui ecosystem through various endpoints and features.
 
 [Test it live](https://bitte.ai/agents/sui-assistant-agent.vercel.app?prompt=Hey%2C%20what%20can%20you%20do%20for%20me%3F)
 
