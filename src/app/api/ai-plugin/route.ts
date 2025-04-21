@@ -1,11 +1,10 @@
-import { ACCOUNT_ID } from '@/app/config';
 import { NextResponse } from 'next/server';
 
 export async function GET() {
   const pluginData = {
     openapi: '3.0.0',
     info: {
-      title: 'Sui Assistant',
+      title: 'Sui Explorer',
       description: 'API for retrieving and analyzing Sui blockchain data',
       version: '1.0.0',
     },
@@ -15,7 +14,7 @@ export async function GET() {
       },
     ],
     'x-mb': {
-      'account-id': ACCOUNT_ID,
+      'account-id': '0x635cb127b5e2bf2e6d4af9567d49d34e08d2981b4d305f98a5c5c9314a672b7a',
       assistant: {
         name: 'Sui Assistant',
         image:
