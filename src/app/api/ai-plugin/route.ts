@@ -10,7 +10,7 @@ export async function GET() {
     },
     servers: [
       {
-        url: 'https://sui-assistant-agent.vercel.app',
+        url: 'https://sui-explorer.vercel.app',
       },
     ],
     'x-mb': {
@@ -18,7 +18,7 @@ export async function GET() {
       assistant: {
         name: 'Sui Explorer',
         image:
-        "https://sui-assistant-agent.vercel.app/logo.png",
+        "https://sui-explorer.vercel.app/logo.png",
         description:
           "An explorer assistant that helps you discover and analyze the Sui blockchain, providing insights into addresses, transactions, objects, and network statistics.",
         instructions:
